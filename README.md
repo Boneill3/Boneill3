@@ -2,9 +2,9 @@
 I'am a Computer Science Master's Student at Portland State University graduating June 2022
 
 ### 🔭 I’m currently working on
+* [A ns-3 simulation](https://github.com/Boneill3/ns3-wildfire-application) of a new decentralized emergency alert system
 * [A CAN Open protocol monitoring application](https://github.com/oresat/CANopen-monitor) written in Python for testing an satellites developed by [@oresat](https://github.com/oresat) <br>
 * [A CAN bus fuzzer](https://github.com/Rusty-CAN-Factory/rusty-can-fuzzer) written in Rust<br>
-* [A ns-3 simulation](https://github.com/Boneill3/ns3-wildfire-application) of a new decentralized emergency alert system
 * Competing in CTFs with the [Void* Vikings](https://ctftime.org/team/111469)
 
 ### 🌱 I’m currently learning
