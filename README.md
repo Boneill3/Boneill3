@@ -4,7 +4,7 @@ Interested in Software Engineering and Cyber Security
 
 ### 🔭 I’m currently working on
 * [A ns-3 simulation](https://github.com/Boneill3/ns3-wildfire-application) of a new decentralized emergency alert protocol
-* [A CAN Open protocol monitoring application](https://github.com/oresat/CANopen-monitor) written in Python for testing an satellites developed by [@oresat](https://github.com/oresat) <br>
+* [A CAN Open protocol monitoring application](https://github.com/oresat/CANopen-monitor) written in Python for testing satellites developed by [@oresat](https://github.com/oresat) <br>
 * [A CAN bus fuzzer](https://github.com/Rusty-CAN-Factory/rusty-can-fuzzer) written in Rust<br>
 * Competing in CTFs with the [Void* Vikings](https://ctftime.org/team/111469)
 
