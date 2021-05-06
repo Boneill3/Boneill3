@@ -12,7 +12,7 @@ Interested in Software Engineering and Cyber Security
 * Rust Programming Language
 * Various Cybersecurity topics
 
-### 📫 How to reach me: [@refactorator](http://twitter.com/refactorator) on twitter or on [linkedin](www.linkedin.com/in/refactorator)
+### 📫 How to reach me: [@refactorator](http://twitter.com/refactorator) on twitter or on [linkedin](http://www.linkedin.com/in/refactorator)
 
 <!--
 **Boneill3/Boneill3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
