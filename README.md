@@ -1,6 +1,7 @@
 ### Hi, I'm Brian 👋
 * A Computer Science Master's Student at Portland State University graduating June 2022<br>
 * Interested in Software Engineering and Cyber Security
+* You can find my resume [here](https://github.com/Boneill3/resume)
 
 ### 🔭 I’m currently working on
 * [A ns-3 simulation](https://github.com/Boneill3/ns3-wildfire-application) of a new decentralized emergency alert protocol
