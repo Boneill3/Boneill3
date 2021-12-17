@@ -1,6 +1,7 @@
 ### Hi, I'm Brian 👋
-* A Computer Science Master's Student at Portland State University graduating March 2022<br>
+* A Computer Science Master's Student at Portland State University graduating June 2022<br>
 * Interested in Software Engineering and Cyber Security
+* Current Graduate Student Intern @ Intel working on BMC validation for a HPC project
 
 ### 🔭 I’m currently working on
 * [A ns-3 simulation](https://github.com/Boneill3/ns3-wildfire-application) of a new decentralized emergency alert protocol
