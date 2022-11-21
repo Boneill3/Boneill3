@@ -1,7 +1,7 @@
 ### Hi, I'm Brian 👋
-* A Computer Science Master's Student at Portland State University graduating August 2022<br>
+* A Computer Science Master's Graduate from Portland State University
 * Interested in Software Engineering and Cyber Security
-* Current Graduate Student Intern @ Intel working on BMC validation for a HPC project
+* Currently working at intel as a Systems Software Validation Engineer for a HPC project
 
 ### 🔭 My recent projects
 * [A ns-3 simulation](https://github.com/Boneill3/ns3-wildfire-application) of a new decentralized emergency alert protocol
@@ -13,8 +13,8 @@
 ### 🌱 I’m currently working on
 * Yocto embedded linux build troubleshooting
 * Board Management Controller automated testing using Python and redfish REST endpoints
-* Malware Reverse Engineering Course Lab redesign ( using ghidra )
-* Packer for virtual box VM deployment
+* Resolving dependency vulnerabilities
+* Learning more about linux programming with systemd and dbus
 
 ### 📫 How to reach me: [linkedin](http://www.linkedin.com/in/refactorator)
 
